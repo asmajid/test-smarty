@@ -1,0 +1,19 @@
+{
+    "name": "majid/test-smarty-php",
+    "require": {
+        "smarty/smarty": "5.3",
+        "almasaeed2010/adminlte": "~3.0",
+        "twbs/bootstrap-icons": "^1.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Majid\\TestSmartyPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Asmaa Majid",
+            "email": "majid.asmaa2001@gmail.com"
+        }
+    ]
+}

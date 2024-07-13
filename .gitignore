@@ -1,0 +1,2 @@
+# Ignorer le répertoire des dépendances PHP
+vendor/
